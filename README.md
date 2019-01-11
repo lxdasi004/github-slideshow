@@ -10,3 +10,4 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 I'll meet you over there, can't wait to get started!
 我也等不及了额，但是我觉得有点难
+怎么了
